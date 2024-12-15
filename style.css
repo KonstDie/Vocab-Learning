@@ -5,4 +5,5 @@ body{
 #top{
     background-color: blue;
     padding: 1vw;
+    margin-top: 0;
 }
