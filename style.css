@@ -16,8 +16,9 @@ body{
     border: 0;
     border-radius: 0.5vw;
     outline: none;
+    transition: 0.2s ease-out;
 }
 #collectionName:focus{
-    transition:0.2s ease-in-out;
+    transition:0.2s ease-in;
     padding:1vw;
 }
