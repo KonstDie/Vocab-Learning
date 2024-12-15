@@ -1,3 +1,6 @@
-function newCollection(){
-    let collectionName = document.getElementById("collectionName")
+let dictionary = {
+
+}
+function addVoab{
+    dictionary['german']= 'english'
 }
