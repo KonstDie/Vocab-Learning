@@ -5,9 +5,8 @@ body{
 }
 #top{
     background-color: rgb(120, 0, 0);
-    padding: 1vw;
+    padding: 2vw;
     border-radius: 3vw;
     text-align: center;
     font-size: 8vh;
-    text-decoration: bold;
 }
