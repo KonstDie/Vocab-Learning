@@ -3,7 +3,6 @@ body{
     color: white;
 }
 #top{
-    background-color: blue;
+    background-color: rgb(0, 0, 60);
     padding: 1vw;
-    margin-top: 0;
 }
