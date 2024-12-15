@@ -5,11 +5,10 @@ body{
 }
 #top{
     background-color: rgb(255, 0, 0);
-    padding: 1vw;
+    padding: 0vw;
     border-radius: 3vw;
     text-align: center;
     font-size: 8vh;
-    box-shadow: 20vh;
 }
 #collectionName{
     font-size: 3vh;
