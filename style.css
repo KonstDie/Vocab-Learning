@@ -18,6 +18,6 @@ body{
     outline: none;
 }
 #collectionName:hover{
-    transition: ease-in-out;
+    transition:1s ease-in-out;
     padding:1vw;
 }
