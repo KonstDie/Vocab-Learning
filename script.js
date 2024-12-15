@@ -1,5 +1,5 @@
 let dictionary = {
 }
-function addVoab(){
+function addVocab(){
     dictionary[german.value]= english.value;
 }
