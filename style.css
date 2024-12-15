@@ -17,7 +17,7 @@ body{
     border-radius: 0.5vw;
     outline: none;
 }
-#collectionName:hover{
+#collectionName:focus{
     transition:1s ease-in-out;
     padding:1vw;
 }
