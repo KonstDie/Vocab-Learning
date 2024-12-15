@@ -9,6 +9,7 @@ body{
     border-radius: 3vw;
     text-align: center;
     font-size: 8vh;
+    box-shadow: 20vh;
 }
 #collectionName{
     font-size: 3vh;
