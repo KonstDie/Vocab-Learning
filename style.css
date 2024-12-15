@@ -4,5 +4,7 @@ body{
 }
 #top{
     background-color: blue;
+    display: flex;
     top: 0;
+    right: 0;
 }
