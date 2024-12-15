@@ -10,3 +10,6 @@ body{
     text-align: center;
     font-size: 8vh;
 }
+#collectionName{
+    background-color:green;
+}
