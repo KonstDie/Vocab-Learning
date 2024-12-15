@@ -10,7 +10,7 @@ body{
     text-align: center;
     font-size: 8vh;
 }
-#collectionName:placeholder-shown{
+#collectionName{
     background-color: rgb(61, 61, 61);
     color: white;
     border: 0;
